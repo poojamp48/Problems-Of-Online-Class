@@ -1,0 +1,7 @@
+problems of Online Classes are: 
+1. Students With Low End devices and cheap Network plans cannot attend the meeting.
+2. Network Issues leads to unstable Video output.
+3. Not Having a good classroom environment.
+4. Bad Interaction between Students and Teacher.
+5. Limitations of teaching and Learning.
+6. Not Having proper Guidance and Supervision
