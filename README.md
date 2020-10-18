@@ -12,8 +12,6 @@ you can give your
 <br><font size=4 color='btown'> Any Name You can give but ent must be in</font><b> .txt  
 formant </font></font>
 </p>
------------------------------------------------------------------------------------------------------------------
-
 <br>
 <h1><font  color='blue'><b> File Content </b></font></h1> 
 <h2  style="color:GreenYellow">Problems</h2>
